@@ -1,5 +1,1 @@
-# dio-java
-
-Aterando localmente
-
-teste
+# Repositorio para armazenar os conteudos do curso Java
