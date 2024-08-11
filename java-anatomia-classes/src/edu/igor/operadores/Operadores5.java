@@ -2,6 +2,12 @@ package edu.igor.operadores;
 
 public class Operadores5 {
     public static void main(String[] args){
+        String nomeUM = "Igor";
+        String nomeDois = new String("Igor");
+
+        System.out.println(nomeUM.equals(nomeDois));
+
+
         int numero1 = 1;
         int numero2 = 2;
 
